@@ -4,7 +4,7 @@
 
 ## Frontend Developer
 
-<font color="grey" I am a front-end React developer that skilled in developing interactive user interfaces. </font>
+<font color="grey"> I am a front-end React developer that skilled in developing interactive user interfaces. </font>
 
 ### Reach out to me
 
@@ -21,9 +21,10 @@
 <p>
 <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width="25" height="25">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" height="25">
-<img src="https://tr.wikipedia.org/wiki/HTML#/media/Dosya:HTML5_logo_and_wordmark.svg" width="25" height="25">
-<img src="https://tr.wikipedia.org/wiki/CSS#/media/Dosya:CSS3_logo_and_wordmark.svg" width="25" height="25">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="25" height="25">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="25" height="25">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" width="25" height="25">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="25" height="25">
 </p>
 
 
