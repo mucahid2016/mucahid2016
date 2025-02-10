@@ -4,7 +4,8 @@
 
 ## Frontend Developer
 
-<font color="grey"> I am a front-end React developer that skilled in developing interactive user interfaces. </font>
+<font color="grey"> I am a front-end React developer that skilled in developing interactive user interfaces.  </font>
+<font color="grey"> I am a hardworking person who attaches importance to teamwork, is open to innovations, loves to teach.  </font>
 
 ### Reach out to me
 
@@ -28,17 +29,6 @@
 </p>
 
 
-<details>
-  <summary>:bulb: Github Stats</summary>
- <img src="https://github-readme-stats.vercel.app/api?username=mucahid2016&theme=gruvbox">
-</details>
-
-<br />
-
-<details>
-  <summary>:bulb: Most Used Languages</summary>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mucahid2016&layout=compact">
-</details>
 
 [linkedin]: https://www.linkedin.com/in/mucahid-ekmekci/
 [twitter]: https://twitter.com/EkmekciMucahid
