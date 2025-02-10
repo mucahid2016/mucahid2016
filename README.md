@@ -5,6 +5,7 @@
 ## Frontend Developer
 
 <font color="grey"> I am a front-end React developer that skilled in developing interactive user interfaces.  </font>
+</br>
 <font color="grey"> I am a hardworking person who attaches importance to teamwork, is open to innovations, loves to teach.  </font>
 
 ### Reach out to me
