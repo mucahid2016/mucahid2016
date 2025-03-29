@@ -1,8 +1,6 @@
 <img src="https://media.giphy.com/media/JDKxRN0Bvmm2c/giphy.gif" align="right" widht="400" height="250">
 
-### Hi there, I'm Mücahid 👋
-
-## Frontend Developer, Software Developer
+## Hi there, I'm Mücahid 👋
 
 # 💫 About Me:
 🔭 I’m currently working on working in the industry.<br>👀 I always aim for the most functional, applicable, and readable code.<br>🌱 I’m currently learning  software engineering and I'm still improving myself.<br>💬 Ask me about React JS,React Native,Javascript<br>🔮 I develop projects with React, Javascript & React Native.<br>🤭 I love learning new things and software.
